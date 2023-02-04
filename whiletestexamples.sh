@@ -1,3 +1,6 @@
+#The statements between the do and done keywords will be executed until the value of the zip variable contains exactly five digits. 
+#Once that value is entered, execution would resume at the echo statement following the done keyword.
+
 #!/bin/bash
 read -p "Enter a valid ZIP code: " zip
  
