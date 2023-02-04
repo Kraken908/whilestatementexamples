@@ -20,4 +20,4 @@ echo "Thank you, $zip is a correct zip code"
 # echo "thank you for the proper zip code"            
 # else                                                    
 # echo "incorrect zip code"                           
-                     fi                               
+# fi                               
